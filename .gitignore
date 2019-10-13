@@ -1,0 +1,11 @@
+.DS_Store
+
+.idea
+*.iml
+
+*.class
+
+*.txt
+*.jpg
+*.png
+*.gif
