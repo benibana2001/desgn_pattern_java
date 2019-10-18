@@ -21,7 +21,7 @@ public class LoginFrame extends Frame implements ActionListener, Mediator {
         add(checkLogin);
         add(new Label("Username:"));
         add(textUser);
-        add(new Label("Password"));
+        add(new Label("Password:"));
         add(textPass);
         add(buttonOk);
         add(buttonCancel);
